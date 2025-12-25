@@ -2,6 +2,7 @@
 
 ## Overview
 This project analyzes authentication log data to identify common abuse patterns such as password spraying and brute-force attacks using evidence from login behavior.
+It is a small-scale analyzer demonstrating how authentication abuse patterns can be identified from log data using simple correlation logic.
 
 ## Problem Statement
 Authentication abuse is a frequent real-world attack vector. Understanding how these attacks manifest in authentication logs is essential for effective detection and incident response.
